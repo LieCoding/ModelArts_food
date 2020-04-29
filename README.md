@@ -1,4 +1,4 @@
-# ModelArts_food baseline acc 95
+# ModelArts_food baseline acc 94
 
 基于官方的baseline做了个修改得到acc95左右，
 
