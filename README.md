@@ -1,6 +1,6 @@
 # ModelArts_food baseline acc 94
 
-基于官方的baseline做了个修改得到acc95左右，
+基于官方的baseline做了个修改得到acc94左右，
 
 主要加了个数据增强，dropout，L2正则
 
